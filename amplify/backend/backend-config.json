@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"ReactAmplified": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
